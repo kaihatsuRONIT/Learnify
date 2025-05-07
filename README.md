@@ -1,1 +1,1 @@
-# Learnify
+Learnify : Education made affordable;
